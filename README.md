@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NeiBro
 - 👀 I’m interested in codding
 - 🌱 I’m currently learning python, JS
-- 📫 How to reach me? Write to discord (Нейрон💜#0016)
+- 📫 How to reach me? Write to TG - @neibro
