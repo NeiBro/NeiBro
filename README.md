@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NeiBro
 - 👀 I’m interested in codding
-- 🌱 I’m currently learning python, JS
+- 🌱 I’m currently learning java
 - 📫 How to reach me? Write to TG - @neibro
